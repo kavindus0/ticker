@@ -1,0 +1,1 @@
+ /Users/kavindus/Projects/ticker/.dart_tool/flutter_build/145c0557a74ac2d9d9ec86e84cca5549/native_assets.yaml: 
