@@ -33,9 +33,9 @@
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.5",
+      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.8",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.1"
     },
     {
       "name": "fake_async",
@@ -47,25 +47,25 @@
       "name": "flutter",
       "rootUri": "file:///Users/kavindus/Developments/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/flutter_lints-2.0.2",
+      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.19"
     },
     {
       "name": "flutter_test",
       "rootUri": "file:///Users/kavindus/Developments/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/http-1.1.0",
+      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/http-1.2.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "http_parser",
@@ -75,21 +75,21 @@
     },
     {
       "name": "leak_tracker",
-      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/leak_tracker-10.0.0",
+      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/leak_tracker-10.0.4",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker_flutter_testing",
-      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/leak_tracker_flutter_testing-2.0.1",
+      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.3",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker_testing",
-      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/leak_tracker_testing-2.0.1",
+      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/leak_tracker_testing-3.0.1",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "lints",
@@ -111,7 +111,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/meta-1.11.0",
+      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/meta-1.12.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -159,7 +159,7 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/test_api-0.6.1",
+      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/test_api-0.7.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -177,9 +177,15 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/vm_service-13.0.0",
+      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/vm_service-14.2.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///Users/kavindus/.pub-cache/hosted/pub.dev/web-0.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
     },
     {
       "name": "ticker",
@@ -188,7 +194,10 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-03-20T13:50:48.866035Z",
+  "generated": "2024-07-01T19:47:02.189721Z",
   "generator": "pub",
-  "generatorVersion": "3.3.0"
+  "generatorVersion": "3.4.3",
+  "flutterRoot": "file:///Users/kavindus/Developments/flutter",
+  "flutterVersion": "3.22.2",
+  "pubCache": "file:///Users/kavindus/.pub-cache"
 }
